@@ -7,6 +7,15 @@
 	//Would affect certain abilities available by the certain
 	adventurers or maybe affect some sort of bravery stat or pride
 	stat?
+Buildings:
+ - Blacksmith [Create new Weapons, refine old ones]
+ - Armory [Buy and Sell armor, weapons]
+ - General Store [Buy and sell general items, inluding health and etc.]
+ - Town Center [Manage town when this is selected]
+ - Hero's Hall [Manage heros, recruit new ones, etc.]
+Population:
+ - Specialties (Abilities that the population could have, possibly status improvements)
+ - Safetyness Factor (Could play into how much the specialty affects hero)
 
 ------------------------------Dungeon crawler------------------------------
 *Basic dungeon crawler with rewards ranging from nothing to money for
