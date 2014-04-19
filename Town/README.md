@@ -9,6 +9,8 @@ Town Center
     + Basically, things that can be solved by a Hero
 
 Blacksmith
+
 Armory
+
 Hero's Hall
   * Manage Heroes, possibly get quests or recruit more
