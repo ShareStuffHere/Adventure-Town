@@ -7,6 +7,7 @@ Town Center
     + For example, there could be a dungeon that is currently holding a dangerous boss nearby
     + The town's route to their source of food (river or something) could be in danger
     + Basically, things that can be solved by a Hero
+
 Blacksmith
 Armory
 Hero's Hall
